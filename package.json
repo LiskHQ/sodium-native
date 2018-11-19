@@ -1,5 +1,5 @@
 {
-  "name": "sodium-native",
+  "name": "@liskhq/sodium-native",
   "version": "2.1.6",
   "description": "Low level bindings for libsodium",
   "main": "index.js",
